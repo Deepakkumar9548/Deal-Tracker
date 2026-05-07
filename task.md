@@ -1,0 +1,10 @@
+- [ ] Refactor `generatePPT` in `script.js` [/]
+    - [ ] Update Font and Color constants
+    - [ ] Implement Title Slide with modern layout
+    - [ ] Refactor Deal Slide Header
+    - [ ] Replace manual table drawing with `pptx.addTable` for Deal Sheet
+    - [ ] Replace manual table drawing with `pptx.addTable` for Discount Breakup
+    - [ ] Improve Observation and Remarks layouts
+    - [ ] Fix Final Decision and Supporting Documents layout
+- [ ] Remove orphaned code block (lines 471-667)
+- [ ] Verify syntax and functionality
