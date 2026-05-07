@@ -1162,6 +1162,3 @@ async function generateHealthPPT() {
 // ─────────────────────────────────────────────
 // INITIALISATION
 // ─────────────────────────────────────────────
-
-fetchDeals();      // Fetch deals from backend and populate UI
-updateObsText();   // Initialise the dynamic observation spans to ₹0
